@@ -11,3 +11,11 @@
 #cardimage{
     height: 200px;
 }
+html {
+    scroll-behavior: smooth;
+  }
+
+a{
+    color: white !important;
+    background-color: transparent !important;  
+  }
