@@ -1,0 +1,13 @@
+#icon{
+   color: #ffffff;
+   width: 100%;
+   display: flex;
+   place-content: center;
+   background-color: rgb(0, 204, 255);
+
+}
+
+
+#cardimage{
+    height: 200px;
+}
