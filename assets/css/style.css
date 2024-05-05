@@ -19,3 +19,22 @@ a{
     color: white !important;
     background-color: transparent !important;  
   }
+
+  
+.open-sans{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal; 
+  }
+
+   
+  h1{
+    font-family: "Open Sans", sans-serif;
+  }
+  h3{
+    font-family: "Open Sans", sans-serif;
+  }
+  .container{
+    font-family: "Open Sans", sans-serif;
+  }
+  
